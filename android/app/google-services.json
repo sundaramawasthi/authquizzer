@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411453582735",
+    "project_id": "thermal-imprint-299311",
+    "storage_bucket": "thermal-imprint-299311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411453582735:android:763d171bd3640a9ab42ffa",
+        "android_client_info": {
+          "package_name": "com.example.mobileotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411453582735-fe80sjah5urj8osfsisefnoap5lomgj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobileotp",
+            "certificate_hash": "378e548e1df99e774f4b5be82fe744c2cf8046dd"
+          }
+        },
+        {
+          "client_id": "411453582735-b46j3uilh9mt7j1n2uijfhgca127nav5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTw8NU0yhFnRGMi3tm7nMsidMZstaUmNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411453582735-b46j3uilh9mt7j1n2uijfhgca127nav5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
